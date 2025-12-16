@@ -1,0 +1,5 @@
+{
+  "name": "FinancePilot - Controle Financeiro Inteligente",
+  "description": "Um sistema completo de gerenciamento financeiro inspirado no Spendee, com suporte a múltiplas carteiras, centros de custo empresariais, investimentos e um consultor financeiro integrado com IA Gemini.",
+  "requestFramePermissions": []
+}
